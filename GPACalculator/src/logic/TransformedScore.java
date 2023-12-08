@@ -1,5 +1,5 @@
 package logic;
-public class ConvertScore {
+public class TransformedScore {
     public static String convertToLetterGrade(double score) {
         if (score >= 70 && score <= 100) {
             return "A";

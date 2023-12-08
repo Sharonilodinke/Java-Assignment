@@ -2,7 +2,7 @@ package utils;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-public class RetrieveUserInfo {
+public class CollectInfo {
     private static final Scanner scanner = new Scanner(System.in);
     public static int getNumberOfCourses() {
         int numberOfCourses = 0;
